@@ -9,9 +9,9 @@
 		"cs_powermail_gdpr": "*"
 	},
 	"require": {
-		"typo3/cms-core": "7.6.0 - 8.7.99",
-		"in2code/powermail": "5.0.0 - 6.99.99",
-	  	"fluidtypo3/vhs": "^4.0"
+		"typo3/cms-core": "7.6.0 - 7.6.99",
+		"in2code/powermail": "3.0.0 - 3.22.1",
+	  	"fluidtypo3/vhs": "^2.4"
 	},
 	"autoload": {
 		"psr-4": {
