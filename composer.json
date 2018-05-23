@@ -10,8 +10,8 @@
 	},
 	"require": {
 		"typo3/cms-core": "7.6.0 - 8.7.99",
-		"in2code/powermail": "3.0.0 - 3.22.1",
-	  	"fluidtypo3/vhs": "^2.4"
+		"in2code/powermail": "^3.0",
+	  	"fluidtypo3/vhs": ">=2.4.0-stable"
 	},
 	"autoload": {
 		"psr-4": {
